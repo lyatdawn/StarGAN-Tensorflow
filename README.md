@@ -14,7 +14,7 @@ See requirements.txt for details.
 * Run the **download.sh** to download the dataset, you can put it in the datasets folder. The CelebA dataset which you downloaded inculdes CelebA crop images and attribute labels.
 * CelebA attribute labels can be seen in list_attr_celeba.txt, there are 40 attributes totally. It is a binary attribute, 1 represent the image has this attribute, -1 represent the image has not this attribute. You can see the README.md of CelebA dataset for detial.
 
-## Training a Model
+## Training and Testing Model
 * Run the following script to train the model, in the process of training, will save the training images every 500 steps. See the **model/stargan.py** for details.
 ```shell
 sh train.sh
