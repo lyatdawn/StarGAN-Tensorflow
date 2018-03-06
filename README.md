@@ -1,4 +1,4 @@
-## StartGAN-Tensorflow. 
+# StartGAN-Tensorflow
 * Tensorflow implement of StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation.[[Paper]](https://arxiv.org/abs/1711.09020)
 * Borrowed code and ideas from yunjey's StarGAN: https://github.com/yunjey/StarGAN.
 
